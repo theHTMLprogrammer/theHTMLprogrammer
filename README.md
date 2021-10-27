@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of technological stuff, but coding and learning new things related to coding is my favourite.
 - 🌱 I’m currently learning some programming languages and getting started with coding.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: discord:- stgupta9935
+- 📫 How to reach me: discord:- Herobrine#8206
 
 <!---
 theHTMLprogrammer/theHTMLprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
